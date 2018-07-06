@@ -1,4 +1,4 @@
-baseURL = "https://dfion.github.io/testhugojm.github.io"
+baseURL = "https://dfion.github.io/testhugojm.github.io/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "My New Hugo Site"
